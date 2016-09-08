@@ -9,8 +9,8 @@ using System.ComponentModel.Composition;
 using System.Linq;
 using Microsoft.VisualStudio.Text;
 using Microsoft.VisualStudio.Utilities;
-using Microsoft.Web.Editor.Intellisense;
 using Intel = Microsoft.VisualStudio.Language.Intellisense;
+using Microsoft.CSS.Editor.Completion;
 
 #endregion
 

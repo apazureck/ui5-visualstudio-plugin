@@ -11,6 +11,7 @@ using Microsoft.VisualStudio.Text;
 using Microsoft.VisualStudio.Text.Tagging;
 using Microsoft.Web.Editor;
 using Intel = Microsoft.VisualStudio.Language.Intellisense;
+using Microsoft.Web.Editor.Imaging;
 
 #endregion
 

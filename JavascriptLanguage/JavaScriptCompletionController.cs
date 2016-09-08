@@ -22,6 +22,7 @@ using Microsoft.VisualStudio.Text.Tagging;
 using Microsoft.VisualStudio.Utilities;
 using Microsoft.Web.Editor;
 using Intel = Microsoft.VisualStudio.Language.Intellisense;
+using Microsoft.Web.Editor.Controller.Constants;
 
 #endregion
 
